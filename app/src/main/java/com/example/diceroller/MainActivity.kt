@@ -38,6 +38,6 @@ class MainActivity : AppCompatActivity() {
         val result2 = dice2.roll()
         val resultSecondTextView: TextView = findViewById(R.id.textView2)
         resultSecondTextView.text = result2.toString()
-
+        //This is demo comment
     }
 }
