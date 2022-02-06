@@ -7,5 +7,7 @@ An Android App to Simulate the Function of Rolling a dice
 - While playing ludo or snake or ladder we can use this app 
 
 ## Images 
-![ss1](images/ss1.png) &nbsp;&nbsp;
-![ss2](images/ss2.png)
+
+Mobile Screen 1             |  Mobile Screen 2
+:-------------------------:|:-------------------------:
+![ss1](images/ss1.png)  |  ![ss2](images/ss2.png)
